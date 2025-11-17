@@ -1,7 +1,6 @@
 - 👋 Hello! I am Carlos.
-- 🔭 I’m currently working on personal projects gaining skills to work on industry level peojects.
+- 🔭 I’m currently working on personal projects in software engineering/development gaining skills to work on industry level peojects.
 - 🌱 I’m currently maintaining programming skills to keep up with the industry. 
 - 🤖 I’m looking for help with being able to be on the right track with my career change into Computer Science. 
-- 💬 Ask me about my language learning hobby!
-- 📫 How to reach me: DM me for socials to be reached by. 
+- 💬 Ask me about my language learning hobbies!
 - ⚡ Bachelor's of Computer Science(2024). More in the future?
